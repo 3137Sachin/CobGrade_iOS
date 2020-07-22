@@ -1,0 +1,6 @@
+framework module Pods_CobGradeTests {
+  umbrella header "Pods-CobGradeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
