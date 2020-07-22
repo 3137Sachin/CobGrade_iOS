@@ -2,6 +2,9 @@
 # Cob Grade (iOS)
 Group Project
 
+## Introduction
+A classroom management app designed for instructors.
+
 ## Project Contribution:
 -Logo
 -Signup Page
